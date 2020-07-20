@@ -190,4 +190,4 @@ client.on('message', async message => {
 
 
 
-client.login('token')
+client.login('Njk1MTQ1NzQxMzkxNDk1MjA5.XxWWdw.FFwfuv3xJmUNmmR9UtGt6OQb9j8')
