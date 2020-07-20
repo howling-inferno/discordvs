@@ -190,4 +190,4 @@ client.on('message', async message => {
 
 
 
-client.login('Njk1MTQ1NzQxMzkxNDk1MjA5.XxWWdw.FFwfuv3xJmUNmmR9UtGt6OQb9j8')
+client.login('NzMxNzkxNzk0Nzg2MDA5MTIw.Xw2NiA.THlJXCo7QeWRsR7anbU4j1KIqkU')
